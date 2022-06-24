@@ -2,6 +2,14 @@
     "files.associations": {
         "random": "cpp",
         "iostream": "cpp",
-        "xstring": "cpp"
+        "xstring": "cpp",
+        "*.tcc": "cpp",
+        "array": "cpp",
+        "deque": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "string_view": "cpp",
+        "unordered_map": "cpp",
+        "system_error": "cpp"
     }
 }
